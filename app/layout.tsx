@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Teacher Thaisa | Aulas de Inglês Online e no Rio de Janeiro",
     description:
       "Professora de inglês no Rio de Janeiro. Aulas online e presenciais para todas as idades, com foco em fluência e confiança para falar inglês.",
-    url: "https://teacherthaisa.com.br",
+    url: "https://teacherthaisa-production.up.railway.app",
     siteName: "Teacher Thaisa",
     locale: "pt_BR",
     type: "website",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: "https://teacherthaisa.com.br",
+    canonical: "https://teacherthaisa-production.up.railway.app",
   },
 };
 
